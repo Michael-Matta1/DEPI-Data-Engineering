@@ -1,7 +1,10 @@
 ---
 
 # Amazon Web Scraping Project
-
+---
+## Dataset URL in Kaggle:
+https://www.kaggle.com/datasets/michaelmatta0/amazon-cell-phones-cleaned-scraped-data/data
+---
 This project involves extracting data from Amazon, specifically focusing on cell phone listings. It consists of two parts: 
 1. **Data Extraction**: Scraping product details from Amazon using Selenium and BeautifulSoup.
 2. **Data Cleaning**: Cleaning and refining the extracted data to make it useful for analysis.
